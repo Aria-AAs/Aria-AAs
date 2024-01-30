@@ -43,19 +43,19 @@
 
   <div align="center">
     <a href="https://www.linkedin.com/in/mohammad-askarzadeh-87200419b/" target="blank">
-      <img align="center" style="padding: 0px 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aria-AAs" height="30" width="30" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aria-AAs" height="30" width="30" />
     </a>
     <a href="https://instagram.com/aria.as" target="blank">
-      <img align="center" style="padding: 0px 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aria-AAs" height="40" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aria-AAs" height="40" width="40" />
     </a>
     <a href="mailto:Mohammad.Askarzadeh5@gmail.com" subject="From link in Github Readme.md file" target="blank">
-      <img align="center" style="padding: 0px 10px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Aria-AAs" height="40" width="40" />
+      <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Aria-AAs" height="40" width="40" />
     </a>
     <a href="https://t.me/Aria_AAs" target="blank">
-      <img align="center" style="padding: 0px 10px" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="Aria-AAs" />
+      <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="Aria-AAs" />
     </a>
-    <a href="discordapp.com/users/584109942064152738" target="blank">
-      <img align="center" style="padding: 0px 10px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Aria-AAs" height="40" width="40" />
+    <a href="https://discordapp.com/users/584109942064152738" target="blank">
+      <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Aria-AAs" height="40" width="40" />
     </a>
   </div>
 
