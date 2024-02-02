@@ -14,11 +14,11 @@
   
   <img src="https://robopolytechnic.com/wp-content/uploads/2023/07/Ar.jpg" width=40% style="float: left;margin: 10px;max-width: 380px;">
   <p style="padding-right:10px;">
-    <b>Mohammad Askarzadeh</b> also known as <b>Aria</b>, was born on July 11, 1999, and currently studying master's in information technology at Azad University Tehran South branch and graduated with a bachelor’s degree in Control Engineering from Shamsipour Technical and Vocational University in Tehran.
-    Mohammad’s bachelor’s thesis focused on the intelligent automation of self-driving navigation systems to recognize and successfully navigate through obstacles, and reach from point A to point B. To accomplish this task, he utilized machine learning concepts such as genetic algorithms, neural networks, deep learning, and reinforcement learning.
-    During his studies, Mohammad has actively researched various fields, including robotics, biomedical engineering, and information technology. Along this path, he proudly registered an invention for an intelligent disinfection device. He achieved second position with this device in the 9th edition of the International Robotics and Artificial Intelligence Competition, hosted by Digikala Next.
+    <b>Mohammad Askarzadeh</b>, also known as <b>Aria</b>, was born on July 11, 1999. He is currently studying for a master's degree in information technology at Azad University Tehran South branch and graduated with a bachelor’s degree in Control Engineering from Shamsipour Technical and Vocational University in Tehran.
+    Mohammad’s bachelor’s thesis focused on the intelligent automation of self-driving navigation systems to recognize and successfully navigate through obstacles and reach from point A to point B. To accomplish this task, he utilized machine learning concepts such as genetic algorithms, neural networks, deep learning, and reinforcement learning.
+    During his studies, Mohammad has actively researched various fields, including robotics, biomedical engineering, and information technology. Along this path, he proudly registered an invention for an intelligent disinfection device. He achieved the second position with this device in the 9th edition of the International Robotics and Artificial Intelligence Competition, hosted by Digikala Next.
     Mohammad is proficient in programming languages such as Python and C/C++ and has worked with libraries such as Qt, OpenGL, and OpenCV. Additionally, he has a strong command of 3D modeling and industrial design using SolidWorks software.
-    Mohammad is a member of the International Federation of Inventors’ Associations (IFIA).
+    Mohammad is a member of the International Federation of Inventors’ Associations (IFIA).
   </p>
 
   My projects are available [here](https://github.com/Aria-AAs?tab=repositories)
